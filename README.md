@@ -3,7 +3,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gaurab655&label=Profile%20views&color=0e75b6&style=flat" alt="gaurab655">
+  <img src="https://komarev.com/ghpvc/?username=gaurab655&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
 </p>
 
 - 🌱 I’m currently learning **Springboot**
@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/gaurab-chand" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
-  <a href="https://facebook.com/gaurab-chand-thakuri" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"></a>
-  <a href="https://www.behance.net/gaurabchand" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40"></a>
-  <a href="https://youtube.com/@gaurabchand3004?si=jfnk3-rxulu0tgys" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"></a>
+  <a href="https://www.linkedin.com/in/gaurab-chand-9848a92b8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/gaurab.chand.56/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.behance.net/gaurabchand" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"></a>
+  <a href="https://youtube.com/@gaurabchand3004?si=jfnk3-rxulu0tgys" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
