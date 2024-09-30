@@ -7,7 +7,7 @@
 </p>
 
 - 🌱 I’m currently doing **Springboot @SWIFT TECHNOLOGY**
-- 💬 Ask me about **Java, MySQL,postgres**
+- 💬 Ask me about **Java, MySQL,postgres,SpringBoot**
 - 📫 How to reach me: gaurabchand655@gmail.com
 
 <h3 align="left">Connect with me:</h3>
