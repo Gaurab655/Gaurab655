@@ -6,8 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=gaurab655&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
 </p>
 
-- 🌱 I’m currently learning **Springboot**
-- 💬 Ask me about **Java, MySQL**
+- 🌱 I’m currently doing **Springboot @SWIFT TECHNOLOGY**
+- 💬 Ask me about **Java, MySQL,postgres**
 - 📫 How to reach me: gaurabchand655@gmail.com
 
 <h3 align="left">Connect with me:</h3>
